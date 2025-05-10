@@ -1,40 +1,42 @@
 
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">नमस्ते 🙏, Hi there 👋 I am [Your Name]!</h1>
 
-Welcome to my GitHub profile! I am a passionate software developer with experience in a wide variety of technologies. I enjoy building meaningful and innovative solutions across multiple platforms.
+---
 
-## 🚀 Technologies & Tools
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=I'm+a+Programmer,+Developer,+and+Freelancer!!;Currently+learning+everything+🌍" />
+</p>
 
-- **Languages**: C++, Python, JavaScript, Java, C#
-- **Web**: HTML, CSS, Tailwind CSS, Django, Angular, Node.js
-- **Databases**: MySQL, MS SQL Server, PostgreSQL
-- **Tools**: Git, Docker, Kubernetes, VS Code, IntelliJ IDEA
-- **Platforms**: Android, Windows, Linux
+- 🧠 I’m currently learning everything 🌍
+- 💬 Ask me about **Python, Java, Flutter, Android**
+- 🏀 Fun fact: I love to play basketball
+- 📫 How to reach me: [your-email@example.com]
+- 💼 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-## 📈 My GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&hide_title=true)
+### Connect with me 👇
 
-## 🔭 Current Projects
+<p align="center">
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Follow-@your_twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://your-website.me"><img src="https://img.shields.io/badge/your-website.me-0078D4?style=for-the-badge" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- **[Infra Management Console](https://github.com/dba-cc/Infra-Management-Console)**: A full-stack project involving performance analytics, built with C# and AngularJS.
-- **[KPM Module](https://github.com/your-project/KPM)**: Building a KernelPatch Module for rooted Android devices.
+---
 
-## 🌱 I’m currently learning
+### Tools, Technologies and Frameworks:
 
-- Advanced Android development
-- Cloud infrastructure and DevOps
-- Machine learning and AI algorithms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,flutter,dart,c,cpp,cs,php,mysql,postgres,django,tailwind,git,github,vscode,linux,figma,tensorflow" />
+</p>
 
-## 💬 Ask me about
+---
 
-- Web development
-- Android development
-- System design
-- Performance optimization
+### 📊 GitHub Stats
 
-## 📫 How to reach me
-
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
