@@ -1,5 +1,5 @@
 
-<h1 align="center">नमस्ते 🙏, Hi there 👋 I am [Your Name]!</h1>
+<h1 align="center">Hi there 👋 I am Harsh Kanani!</h1>
 
 ---
 
@@ -8,26 +8,19 @@
 </p>
 
 - 🧠 I’m currently learning everything 🌍
-- 💬 Ask me about **Python, Java, Flutter, Android**
-- 🏀 Fun fact: I love to play basketball
-- 📫 How to reach me: [your-email@example.com]
-- 💼 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 💬 Ask me about **Python, Java, Android, Kernel**
+- 📫 How to reach me: kananiharsh007@gmail.com
+- 💼 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/harsh-kanani)
 
 ---
 
 ### Connect with me 👇
 
-#<p align="center">
-#  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Follow-@your_twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-#  <a href="https://your-website.me"><img src="https://img.shields.io/badge/your-website.me-0078D4?style=for-the-badge" /></a>
-#  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-#</p>
-
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kananiharsh007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/harsh-kanani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -70,6 +63,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshkanani&show_icons=true&theme=radical" />
- # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkanani&layout=compact&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Harshkanani&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
