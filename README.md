@@ -3,13 +3,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=I'm+a+Programmer,+Developer,+and+Freelancer!!;Currently+learning+everything+🌍" />
-</p>
-
-- 🧠 I’m currently learning everything 🌍
+🧑‍💻 I'm a Programmer, Developer, and Freelancer.
 - 💬 Ask me about **Python, Java, Android, Kernel**
-- 📫 How to reach me: kananiharsh007@gmail.com
+- 📫 How to reach me: [kananiharsh007@gmail.com](mailto:kananiharsh007@gmail.com)
 - 💼 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/harsh-kanani)
 
 ---
@@ -28,10 +24,6 @@
 ---
 
 ### Tools, Technologies and Frameworks:
-
-#<p align="center">
-#  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,flutter,dart,c,cpp,cs,php,mysql,postgres,django,tailwind,git,github,vscode,linux,figma,tensorflow" />
-#</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
