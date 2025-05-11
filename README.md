@@ -5,7 +5,6 @@
 
 🧑‍💻 I'm a Programmer, Developer, and Freelancer.
 - 💬 Ask me about **Python, Java, Android, Kernel**
-- 📫 How to reach me: [kananiharsh007@gmail.com](mailto:kananiharsh007@gmail.com)
 - 💼 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/harsh-kanani)
 
 ---
@@ -13,9 +12,6 @@
 ### Connect with me 👇
 
 <p align="center">
-  <a href="mailto:kananiharsh007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/harsh-kanani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
